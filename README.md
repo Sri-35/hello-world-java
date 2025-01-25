@@ -9,12 +9,12 @@ This is the source code of the program:
 ```java
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    System.out.println("Hello world!"+"From Herobrine");
   }
 }
 ```
 
-Notice that `System.out.println("Hello world!");` shows the string `"Hello world!"` on the screen.
+Notice that `System.out.println("Hello world!");` shows the string `"Hello world! From Herobrine"` on the screen.
 
 ## Compile program
 
@@ -31,4 +31,4 @@ To execute the program, type this:
 ```console
 java HelloWorld
 ```
-
+By Herobrine
