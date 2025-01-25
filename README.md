@@ -9,7 +9,7 @@ This is the source code of the program:
 ```java
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello world!"+"From Herobrine!!!!");
+    System.out.println("Hello world!"+"From Steve");
   }
 }
 ```
@@ -31,4 +31,4 @@ To execute the program, type this:
 ```console
 java HelloWorld
 ```
-By Herobrine
+By Steve
