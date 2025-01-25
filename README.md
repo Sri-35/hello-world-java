@@ -1,4 +1,4 @@
-# Hello world with Java :coffee:
+# Hello world with Java :coffee: Slave
 
 This is a simple **"Hello world"** done with **Java** programming language.
 
